@@ -13,4 +13,4 @@ def fizzbuzz(n):
             print(i, end=" ")
 
 # Appel de la fonction avec 50
-fizzbuzz(50)
+fizzbuzz(89)
